@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/github/release/phrogg/Statista4Students.svg?logo=github" />   [![GitHub license](https://img.shields.io/github/license/phrogg/Statista4Students.svg)](https://github.com/phrogg/Statista4Students/blob/master/LICENSE)   [![GitHub issues](https://img.shields.io/github/issues/phrogg/Statista4Students.svg)](https://GitHub.com/phrogg/Statista4Students/issues/)
+
+
 # Statista4Students
 
 This application removes the premium statistics from Statista.com for university accounts.
