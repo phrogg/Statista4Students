@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Statista4Students",
   "description": "Removes Premium statistics from each statista search query.",
-  "version": "1.1",
+  "version": "1.2",
   "author": "Phil Roggenbuck <ceo@roggstar.eu>",
   
   "icons": {
